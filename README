@@ -2,14 +2,14 @@ This repo contains prebuilt toolchains for andorid
 
 
 Current toolchains:
-[1] arm-eabi-4.4.3
-    GCC 4.4.3 toolchain from CyanogenMod repo
+[1] arm-eabi-linaro-4.6.2
+	GCC Linaro 4.6.2 (2011.10) toolchain
 
-[2] arm-eabi-linaro-4.6.2
-    GCC Linaro 4.6.2 (2011.10) toolchain
+[2] arm-unknown-linux-gnueabi-linaro_4.7.4-2013.12
+	GCC Linaro 4.7.4 (2013.12) toolchain
 
 [3] arm-eabi-4.7
-    GCC 4.7 toolchain from Google
+	GCC 4.7 toolchain from Google
 
 [4] arm-eabi-4.8
-    GCC 4.8 toolchain from Google
+	GCC 4.8 toolchain from Google
