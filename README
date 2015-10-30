@@ -8,11 +8,11 @@ Current toolchains:
 [2] arm-eabi-4.8
 	GCC 4.8 toolchain from Google
 
-[3] arm-unknown-linux-gnueabi-linaro_4.7.4-2013.12
-	GCC Linaro 4.7.4 (2013.12) toolchain
-
-[4] arm-unknown-linux-gnueabi-linaro_4.6.4-2013.05
+[3] arm-unknown-linux-gnueabi-linaro_4.6.4-2013.05
 	GCC Linaro 4.6.4 (2013.05) toolchain
+
+[4] arm-unknown-linux-gnueabi-linaro_4.7.4-2013.12
+	GCC Linaro 4.7.4 (2013.12) toolchain
 
 [5] arm-linux-gnueabi-linaro_4.8.4-2014.11
 	GCC Linaro 4.8.4 (2014.11) toolchain
