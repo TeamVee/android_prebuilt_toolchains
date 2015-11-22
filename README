@@ -3,7 +3,7 @@ This repo contains Prebuilt Toolchains for Android ARM Kernels
 Current branch toolchains:
 
 [1] Google GCC's - 4.7 and 4.8
-[2] Linaro GCC's - 4.8.4 and 4.9.3
+[2] Linaro GCC's - 4.8.4 and 4.9.4
 ...and more to become
 
 You need to choose the branch, download zip and unpack in the folder beside of kernel
