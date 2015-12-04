@@ -8,3 +8,7 @@ Current toolchains:
 [2] arm-cortex-linux-gnueabi-linaro_4.9.4-2015.06
 	GCC Linaro 4.9.4 (2015.06) toolchain
 
+**Use this command in Kernel Folder**
+```
+. ../android_prebuilt_toolchains/aptess.sh
+```
