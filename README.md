@@ -8,3 +8,7 @@ Current toolchains:
 [2] arm-eabi-4.8
 	GCC 4.8 toolchain from Google
 
+**Use this command in Kernel Folder**
+```
+. ../android_prebuilt_toolchains/aptess.sh
+```
