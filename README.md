@@ -12,5 +12,5 @@ Current toolchains:
 
 **Use this command inside this folder and select toolchain**
 ```
-. android_prebuilt_toolchains/aptess.sh
+. aptess.sh
 ```
