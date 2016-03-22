@@ -6,4 +6,7 @@ Current branch toolchains:
 [2] Linaro GCC's - 4.8.4 and 4.9.4
 ...and more to become
 
-You need to choose the branch, download zip and unpack in the folder beside of kernel
+You need to choose the branch, download zip and unpack in the folder beside of kernel (if you have build.sh) or just
+```
+. aptess.sh
+```
