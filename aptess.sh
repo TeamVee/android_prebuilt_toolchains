@@ -18,8 +18,8 @@ read -p "Choice: " -n 1 -s x
 _CROSS_COMPILE=$CROSS_COMPILE
 unset CROSS_COMPILE
 case "$x" in
-	1 ) export CROSS_COMPILE="$(pwd)/android_prebuilt_toolchains/arm-eabi-4.7/bin/arm-eabi-"; ToolchainCompile="Google GCC 4.7";;
-	2 ) export CROSS_COMPILE="$(pwd)/android_prebuilt_toolchains/arm-eabi-4.8/bin/arm-eabi-"; ToolchainCompile="Google GCC 4.8";;
+	1 ) export CROSS_COMPILE="$(pwd)/../android_prebuilt_toolchains/arm-eabi-4.7/bin/arm-eabi-"; ToolchainCompile="Google GCC 4.7";;
+	2 ) export CROSS_COMPILE="$(pwd)/../android_prebuilt_toolchains/arm-eabi-4.8/bin/arm-eabi-"; ToolchainCompile="Google GCC 4.8";;
 	* ) ;;
 esac
 if [ "$CROSS_COMPILE" == "" ]
